@@ -36,7 +36,7 @@ This repository is created for beginners (students) to learn how to contribute t
   - and Copy the Template shown in the Image.
   - ![Screenshot (39)](https://user-images.githubusercontent.com/25875102/151495347-51f984e3-400b-48ee-b15c-6edcb8e62aa2.png)
   - Paste it below the code shown in image by having one space between the above code. 
-  - (NOTE - YOUR CARD MUST BE ON THE TOP)
+  - (NOTE - YOUR CARD MUST BE ON THE TOP and BELOW THE TEMPLATE and COMMENTS)
   - ![Screenshot (40)](https://user-images.githubusercontent.com/25875102/151495500-c6af9d63-7516-476b-9ffc-b32d649f56db.png)
   - Make the changes by adding your information to the card.
     - Replace name by Your name by your own name.
