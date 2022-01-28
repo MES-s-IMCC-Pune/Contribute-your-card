@@ -74,9 +74,9 @@ This repository is created for beginners (students) to learn how to contribute t
   
 - ## Congrats on creating a successful PR
   - Now you should see page as below
-  - ![image](https://user-images.githubusercontent.com/25875102/151507152-ceb2da90-e64d-4906-8638-0a5141261873.png)
+  - ![Screenshot (46)](https://user-images.githubusercontent.com/25875102/151507672-77642da0-ea2a-4bb8-9f5b-efdf0533bfc0.png)
   - Once your PR is reviewed and merged your PR page will look like this 
-  - ![image](https://user-images.githubusercontent.com/25875102/151507282-e1007d05-e29e-4253-967b-8244d0e6b623.png)
+  - ![Screenshot (47)](https://user-images.githubusercontent.com/25875102/151507731-afe4273d-2a52-4bd4-8c59-00e63e857b9e.png)
 
 Now you know how to raise a PR :) 
 You can check your card [here](https://mes-s-imcc-pune.github.io/Contribute-your-card/)
