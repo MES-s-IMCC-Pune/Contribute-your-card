@@ -1,5 +1,5 @@
 # [Contribute-your-card](https://mes-s-imcc-pune.github.io/Contribute-your-card/)
-This repository is created for beginners (students) to learn how to contribute to open source projects on github by learning how to raise the Pull Request.
+This repository is created for beginners (students) to learn how to contribute to open source projects on github by learning how to raise the Pull Request. (inspired from Syknapse's[ repositry](https://github.com/Syknapse))
 
 ## Prerequisite
 
